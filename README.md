@@ -2,4 +2,4 @@
 words and characters in giver textarea and 
 you can modity at your own
 
-# ACTUAL CODE OF INTERFACE IS INSIDE \src\components\textform  file
+# actual code of this page is inside textform refer path \src\components\textform  file
